@@ -1,0 +1,48 @@
+{
+    "instrument": [
+        {
+            "name": "Stocks",
+            "Description": "Type of security that gives stockholders a share of ownership in a company.",
+            "img": "./stocks.png",
+            "href": "./instruments/stocks"
+        },
+        {
+            "name": "Mutual Funds",
+            "Description": "Pooled collection of assets that invests in stocks, bonds, and other securities.",
+            "img": "./mutualfunds.png",
+            "href": "./instruments/mutualfunds"
+        },
+        {
+            "name": "Crypto",
+            "Description": "Digital currency that uses encryption techniques to regulate the generation of units and verify the transfer of funds",
+            "img": "./crypto.png",
+            "href": "./instruments/crypto"
+        },
+        {
+            "name": "Bonds",
+            "Description": "Fixed-income instrument that represents a loan made by an investor to a borrower",
+            "img": "./bonds.png",
+            "href": "./instruments/bonds"
+        }
+    ],
+    "about":[
+            {
+                "name" : "Customers First",
+                "Description" : "Every Decision we make is centered around our customers convenience and needs",
+                "img":"./customer.png"
+            }
+            ,
+            {
+                "name" : "Simple is Beautiful",
+                "Description" : "Be it our app, website, or services- we strive to keep making things simpler",
+                "img":"./simple.png"
+            }
+            ,
+            {
+                "name" : "Honesty and Intergrity",
+                "Description" : "We want our customers to be completely aware of everything to do with their investments",
+                "img":"./honesty.png"
+            }
+    ]
+
+}

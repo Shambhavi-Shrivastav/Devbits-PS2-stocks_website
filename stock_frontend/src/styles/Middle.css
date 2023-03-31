@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Kanit&display=swap');
+
+.article {
+    height: 50vmax;
+    background-repeat: no-repeat;
+    display: grid;
+    background-size: 50vmax;
+    background-position-x: 44vmax;
+    background-position-y: 5vmax;
+    /* position:; */
+}
+
+/* .span {
+    font-size: 40px;
+    color: black;
+    text-align: left;
+    margin-top: 20vmax;
+    margin-left: 4vmax;
+    font-weight: bolder;
+    font-family: ;
+} */
+
+.card {
+    border-radius: 1vmax;
+    background-color: rgb(224, 223, 223);
+    height: fit-content;
+    float: left;
+    width: fit-content;
+    margin-left: 8vmax;
+    margin-top: 16vmax;
+    text-align: left;
+
+    color: rgb(46, 43, 43, 0.8);
+    
+   
+
+}
+
+#main {
+    font-size: 2.5vmax;
+    font-weight: 350;
+    margin-left: 2vmax;
+    margin-right: 2vmax;
+    font-family: Kanit;
+    
+}
+
+#content {
+    font-size: 1.5vmax;
+    font-weight: 100;
+    margin-left: 2vmax;
+   
+    margin-right: 2vmax;
+
+    color:grey
+}

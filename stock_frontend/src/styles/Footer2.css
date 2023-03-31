@@ -1,0 +1,40 @@
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    padding-top: 4vmax;
+    background-color: rgb(37, 37, 37);
+    color: white;
+    padding-left: 10vmax;
+    height:25vmax
+}
+#head{
+    font-size: larger;
+    margin-bottom:2vmax
+}
+#cont{
+    
+    text-decoration: none;
+    color: white;
+    text-align: left;
+
+}
+#contact{
+    padding-bottom: 0.5vmax;
+}
+.icons {
+    float: right;
+    background-color: rgb(37, 37, 37);
+    margin-right: 15vmax;
+    margin-top: 2vmax;
+}
+.icons>img{
+    height:2.5vmax;
+    padding: 0.5vmax;
+
+}
+
+.icons>img:hover{
+    transform: translateY(-0.2vmax);
+    transition:0.3s
+}

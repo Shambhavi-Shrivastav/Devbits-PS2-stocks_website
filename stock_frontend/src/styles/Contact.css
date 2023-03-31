@@ -1,0 +1,126 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+.cnt-form-details
+{
+  background-color:skyblue;
+  display: flex;
+  align-items: center;
+  border: none;
+  border-radius: 5px;
+  width: 1200px;
+  margin-left: 6vmax;
+  margin-bottom:4vmax
+}
+
+
+.left-from
+{
+  background-color: black;
+  width: 500px;
+}
+.whiteus-text1 
+{
+   margin: 40px;
+   font-family: 'Roboto Slab', serif;
+  color:aliceblue;
+  font-size: 1.5rem;
+
+}
+.form-data-left
+{
+  margin: 30px;
+  align-items: center;
+  justify-content: center;
+  color: azure;
+  font-family: 'Roboto Slab', serif ;
+  display: flex;
+}
+
+.form-right-text{
+  margin: 30px;
+  color: aliceblue;
+  font-family: 'Roboto Slab', serif;
+}
+.form-data{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+  }
+  .svgpadding{
+    margin: 10px;
+  }
+  .right-form form{
+    margin-top: 30px;
+    margin-left: 50px;
+    padding-left: 100px;
+  }
+  .whiteus-text{
+    font-family: 'Roboto Slab', serif ;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+  .row_fname
+  {
+    display: flex;
+    font-family: 'Roboto Slab', serif ;
+    font-weight: bold;
+    justify-content: center;
+    margin: 20px 0px;
+  }
+  
+  .row2_email{
+    display: flex;
+    font-family: 'Roboto Slab', serif ;
+    font-weight: bold;
+    justify-content: center;
+    margin: 20px 0px;
+  }
+  
+  .mb-3_formgrp{
+    margin-right: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .formlabel_mt-5{
+    font-family: 'Roboto Slab', serif ;
+    font-weight: bold;
+  }
+  
+  input[type=text]
+  {
+    margin-top: 10px ;
+    width: 300px;
+    border: transparent;
+  }
+  
+  textarea{
+    margin-top: 10px;
+    width: 500px;
+    border: transparent;
+
+  }
+  button[type=submit]{
+    background-color: black;
+    height: 50px;
+    width: 100px;
+    color: aliceblue;
+    font-family: 'Roboto Slab', serif ;
+    font-weight: bolder;
+    font-size: 1rem;
+    margin-top: 20px;
+    border-radius: 3px;
+    margin-left: 400px;
+  }
+
+  .Query{
+    margin-top:10vmax;
+    font-family:'Roboto Slab', serif ;
+    font-weight: 500;
+    font-size: 2.5vmax;
+    margin-left: 6vmax;
+    padding-bottom: 3vmax;
+
+  }

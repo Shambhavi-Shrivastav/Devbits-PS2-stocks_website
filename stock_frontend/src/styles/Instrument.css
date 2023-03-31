@@ -1,0 +1,9 @@
+.instrument {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1vmax;
+    height: fit-content;
+    padding-bottom: 3vmax;
+}

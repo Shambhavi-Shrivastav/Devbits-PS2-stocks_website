@@ -1,0 +1,34 @@
+.aboutcard {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    color: rgb(46, 43, 43, 0.8);
+    height: 15vmax;
+    width: 100%;
+    margin-bottom:5vmax;
+    margin-top: 3vmax;
+
+}
+
+.img{
+    height: 12vmax;
+    padding-left: 8vmax;
+    margin-top: 2vmax;
+}
+
+.h{
+   background-color: lightgray;
+   margin-left: 4vmax;
+   border-radius: 2vmax;
+   padding-top: 3vmax;
+   padding-left: 4vmax;
+   margin-right: 4vmax;
+   font-size: x-large;
+
+}
+.ds{
+    font-size: 1.4vmax;
+}
+
+.h:hover{
+    color: black;
+}
